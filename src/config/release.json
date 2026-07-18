@@ -1,9 +1,8 @@
 {
-  "version": "0.1.14",
-  "releaseDate": "2026-07-17",
+  "version": "0.1.15",
+  "releaseDate": "2026-07-18",
   "supportedLoaders": "Fabric · Forge · NeoForge",
   "notes": [
-    "Full launcher localization across 19 languages",
-    "Local skins now render correctly in-game via automatic CustomSkinLoader install"
+    "Routine maintenance update"
   ]
 }

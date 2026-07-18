@@ -1,5 +1,14 @@
 [
   {
+    "version": "0.1.15",
+    "date": "2026-07-18",
+    "added": [],
+    "improved": [
+      "Routine maintenance update"
+    ],
+    "fixed": []
+  },
+  {
     "version": "0.1.14",
     "date": "2026-07-17",
     "added": [
