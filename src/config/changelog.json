@@ -1,0 +1,49 @@
+[
+  {
+    "version": "0.1.14",
+    "date": "2026-07-17",
+    "added": [
+      "Full launcher localization across 19 languages"
+    ],
+    "improved": [],
+    "fixed": [
+      "Local skins never showing up in-game",
+      "CustomSkinLoader now auto-installs so local skins render correctly on modded profiles"
+    ]
+  },
+  {
+    "version": "0.1.13",
+    "date": "2026-07-16",
+    "added": [],
+    "improved": [
+      "Updates now install fully automatically in the background",
+      "The game window stays capturable during full-screen streaming shares"
+    ],
+    "fixed": []
+  },
+  {
+    "version": "0.1.12",
+    "date": "2026-07-16",
+    "added": [
+      "Laptop Optimization toggle (GPU preference + CPU priority)",
+      "News, announcements, and promotions synced from the admin dashboard"
+    ],
+    "improved": [
+      "Java now downloads automatically when missing",
+      "Removed the unsupported Quilt filter from loader selection"
+    ],
+    "fixed": [
+      "Removed the inaccurate \"Playing Now\" counter from the titlebar"
+    ]
+  },
+  {
+    "version": "0.1.11",
+    "date": "2026-07-15",
+    "added": [],
+    "improved": [],
+    "fixed": [
+      "Laggy Discord streams by registering the game itself instead of the launcher",
+      "Home and Partners content silently failing to load"
+    ]
+  }
+]
