@@ -1,5 +1,14 @@
 [
   {
+    "version": "0.1.20",
+    "date": "2026-08-24",
+    "added": [],
+    "improved": [
+      "some new bugs fix"
+    ],
+    "fixed": []
+  },
+  {
     "version": "0.1.19",
     "date": "2026-08-23",
     "added": [],
