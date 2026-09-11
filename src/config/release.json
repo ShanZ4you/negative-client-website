@@ -1,8 +1,8 @@
 {
-  "version": "0.1.23",
-  "releaseDate": "2026-09-07",
+  "version": "0.1.25",
+  "releaseDate": "2026-09-11",
   "supportedLoaders": "Fabric · Forge · NeoForge",
   "notes": [
-    "some bugs fix"
+    "new update"
   ]
 }
